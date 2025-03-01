@@ -9,7 +9,7 @@
   <img src="https://res.cloudinary.com/dftcj3ujb/image/upload/v1740752597/s54pmfgw8im4gxxowwcs.gif" width="300">
 </p>
 
-<p align="center"> Made with ❤️ by Md. Belal Ansari | [![GitHub](https://img.shields.io/badge/GitHub-Profile-%23181717?style=for-the-badge&logo=github)](https://github.com/Belalgrd) </p><div align="center"> <sub>If you find this useful, please consider giving it a ⭐!</sub> </div>
+<p align="center"> Made with ❤️ by Md. Belal Ansari </p><div align="center"> <sub>If you find this useful, please consider giving it a ⭐!</sub> </div>
 
 ## 🌟 Features
 
